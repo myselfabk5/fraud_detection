@@ -9,13 +9,12 @@ This project aims to detect fraudulent transactions using a dataset sourced from
 - Model training and evaluation on imbalanced datasets.
 - Easy to extend with additional classifiers or techniques.
 
-## Technologies Used
+## Tools Used
 - Python
 - Scikit-learn
 - imbalanced-learn (SMOTE)
 - Pandas
 - NumPy
-- Matplotlib / Seaborn (for visualizations)
-
-## Installation
-1. Clone the repository:
+- Matplotlib (for visualizations)
+- xgboost
+  
