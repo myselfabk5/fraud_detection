@@ -19,5 +19,5 @@ This project aims to detect fraudulent transactions using a dataset sourced from
 - XGBoost
 
 ##
-More........ [In Progress]
+More.................... [In Progress]
   
