@@ -12,9 +12,12 @@ This project aims to detect fraudulent transactions using a dataset sourced from
 ## Tools Used
 - Python
 - Scikit-learn
-- imbalanced-learn (SMOTE)
+- Imbalanced-learn (SMOTE)
 - Pandas
 - NumPy
 - Matplotlib (for visualizations)
-- xgboost
+- XGBoost
+
+##
+More........ [In Progress]
   
